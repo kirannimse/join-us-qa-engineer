@@ -18,7 +18,7 @@ Steps:
 - Check if UI is responsive or not
 - Check for any broken links
 
-## Submssion
+## Submission
 
 - Cypress code and report must be pushed to github public repository.
 - Submit at hr@mtechzilla.com
